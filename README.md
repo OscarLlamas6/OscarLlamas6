@@ -1,4 +1,5 @@
-<h1 align="center"><a href="#"><img width="60%" height="auto" src="https://i.ibb.co/QkzVMgm/alien2.png" height="100px"/></a></h1>
+
+<h1 align="center"><a href="#"><img width="42%" height="auto" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"height="100px"/></a></h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Oscar :alien: </h1>
 <br>
