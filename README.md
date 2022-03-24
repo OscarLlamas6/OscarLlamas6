@@ -6,7 +6,7 @@
 
 # 🙇 About me:
 
-- 🔭 I’m currently working on **[Cloud Native Distributed-System](https://github.com/OscarLlamas6/cloudnative-squidgame-distributedsystem)**
+- 🔭 I’m currently working on **[Smash Media Inc.](https://www.smashmedia.com/)**
 
 - 🌱 I’m currently learning **React, GraphQL and Kubernetes**
 
