@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Smash Media Inc.](https://www.smashmedia.com/)**
 
-- 🌱 I’m currently learning **CircleCLi, Pulumi & Jenkins**
+- 🌱 I’m currently learning **CircleCI, Pulumi & Jenkins**
 
 
 - 👨‍💻 All of my projects are available at **[My Github Projects](https://github.com/OscarLlamas6?tab=repositories)**
