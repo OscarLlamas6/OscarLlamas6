@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Smash Media Inc.](https://www.smashmedia.com/)**
 
-- 🌱 I’m currently learning **CircleCI, Pulumi & Jenkins**
+- 🌱 I’m currently learning **CircleCI, Pulumi & NestJS**
 
 
 - 👨‍💻 All of my projects are available at **[My Github Projects](https://github.com/OscarLlamas6?tab=repositories)**
@@ -43,6 +43,14 @@
   <code><img height="40" src="https://i.ibb.co/z7x38vC/gcp.png"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
   <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5453/5453855.png"></code>
+
+  <code><img height="40" src="https://i.ibb.co/kH1Qq17/graphql-logo.png"></code>
+  <code><img height="40" src="https://i.ibb.co/JmxmBpH/twitter-card.png"></code>
+  <code><img height="40" src="https://i.ibb.co/rx049x1/bash.png"></code>
+  <code><img height="40" src="https://i.ibb.co/9Yt3vhx/image.png"></code>
+  <code><img height="40" src="https://i.ibb.co/yXZHz35/selenium.png"></code>
+  <code><img height="40" src="https://i.ibb.co/dbqNrQC/redis.png"></code>
+  <code><img height="40" src="https://i.ibb.co/k20jZsS/rabbitmp.png"></code>
   </p>
   
 &nbsp;  
