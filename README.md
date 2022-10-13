@@ -6,14 +6,13 @@
 
 # 🙇 About me:
 
-- 🔭 I’m currently working on **[Smash Media Inc.](https://www.smashmedia.com/)**
+- 🔭 I’m currently working on **[Rappi](https://www.rappi.com.mx/)** <img src="https://i.ibb.co/kh3txxg/unnamed.png" width="20px">
 
-- 🌱 I’m currently learning **Terraform, Rancher & K8s**
-
+- 🌱 I’m currently learning **Traefik, Jaeger & AWS ECS**
 
 - 👨‍💻 All of my projects are available at **[My Github Projects](https://github.com/OscarLlamas6?tab=repositories)**
 
-- 📫 How to reach me **oscarllamasusac@gmail.com**
+- 📫 How to reach me **contact@oscarllamas.tech**
 
 - ⚡ Fun fact **I play CSGO and love Aliens stuff**
 
@@ -79,7 +78,7 @@
   <a href="https://discordapp.com/users/386689869105201172">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/discord.png" height="35px" style="margin: 5px;" />
   </a>
-  <a href="mailto:oscarllamasusac@gmail.com">
+  <a href="mailto:contact@oscarllamas.tech">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
 </p>
