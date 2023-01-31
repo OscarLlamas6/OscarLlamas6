@@ -16,7 +16,9 @@
 
 - ⚡ Fun fact **I play CSGO and love Aliens stuff**
 
+<img src="https://i.ibb.co/mBMsdCm/demo.gif">  
 <br>
+
 
 # 🚀 Languages and Tools: 
 <p><H3 align="center"><strong></strong></p>
