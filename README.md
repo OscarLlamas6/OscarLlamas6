@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Rappi](https://www.rappi.com.mx/)** <img src="https://i.ibb.co/kh3txxg/unnamed.png" width="20px">
 
-- 🌱 I’m currently learning **TDD, BDD, TDD & Hex Arch**
+- 🌱 I’m currently learning **TDD, BDD, DDD & Hex Arch**
 
 - 👨‍💻 All of my projects are available at **[My Github Projects](https://github.com/OscarLlamas6?tab=repositories)**
 
