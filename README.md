@@ -6,9 +6,9 @@
 
 # 🙇 About me:
 
-- 🔭 I’m currently working on **[Rappi](https://www.rappi.com.mx/)** <img src="https://i.ibb.co/kh3txxg/unnamed.png" width="20px">
+- 🔭 I’m currently working on **[Tigo (Millicom)](https://www.millicom.com/)** <img src="https://i.ibb.co/946GxR9/tigoicon.png" width="20px">
 
-- 🌱 I’m currently learning **TDD, BDD, DDD & Hex Arch**
+- 🌱 I’m currently learning **Cloud services, Terraform & design patterns**
 
 - 👨‍💻 All of my projects are available at **[My Github Projects](https://github.com/OscarLlamas6?tab=repositories)**
 
