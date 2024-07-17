@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Tigo (Millicom)](https://www.millicom.com/)** <img src="https://i.ibb.co/946GxR9/tigoicon.png" width="20px">
 
-- 🌱 I’m currently learning **KVM, Azure & Podman**
+- 🌱 I’m currently learning **DevSecOps, Azure DevOps & Kestra**
 
 - 👨‍💻 All of my projects are available at **[My Github Projects](https://github.com/OscarLlamas6?tab=repositories)**
 
